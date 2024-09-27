@@ -1,0 +1,9 @@
+librosa
+matplotlib
+numpy
+soundfile
+pandas
+scikit-learn
+fastai
+gradio
+huggingface_hub
